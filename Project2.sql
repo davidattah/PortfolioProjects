@@ -1,3 +1,5 @@
+--Cleaning Data in SQL Queries 
+
 --Standardze date format
 
 Select SaleDateConverted, Convert(date,SaleDate)
