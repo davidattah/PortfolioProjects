@@ -1,7 +1,7 @@
---Select *
---From PortfolioProject..CovidDeaths 
---where continent 
---order by 3,4
+Select *
+From PortfolioProject..CovidDeaths 
+where continent 
+order by 3,4
 
 
 
