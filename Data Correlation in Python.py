@@ -228,5 +228,5 @@ high_corr
 
 
 #Votes and budget have the highest correlation to gross earning 
-#Company hss the low correlation
+#Company has the lowest correlation
 
